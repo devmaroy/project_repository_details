@@ -11,7 +11,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 ## Shortcuts
 
 |Shortcut        |Meaning               |Description                                                         |
-|----------------|-------------------------------|---------------------------------------------------|
+|:------------- |:-------------:| -----:|
 |ga	     |`'Gatsby JS'`         |'Project build with Gatsby'                                         |
 |siapi	 |`'Strapi.io API'`     |'Created with Strapi.io backend API - we fetch data from there'     |         
 |pe	     |`'Personal'`     |'Personal project'     |         
