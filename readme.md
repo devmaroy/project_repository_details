@@ -8,7 +8,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 <br />
 
 
-## Shortcuts <hr />
+## Shortcuts
 
 |ST        |Meaning               |Description                                                         |
 |----------------|-------------------------------|---------------------------------------------------|
