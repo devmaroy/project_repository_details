@@ -10,14 +10,16 @@ The reason is that there is no need to create **LONG** repository names like **"
 
 ## Shortcuts
 
+<p align="left">
 |Shortcut        |Meaning               |Description                                                         |
-:-: | -----------:
+|----------------|-------------------------------|---------------------------------------------------|
 |ga	     |`'Gatsby JS'`         |'Project build with Gatsby'                                         |
 |siapi	 |`'Strapi.io API'`     |'Created with Strapi.io backend API - we fetch data from there'     |         
 |pe	     |`'Personal'`     |'Personal project'     |         
 |cl	     |`'Client'`     |'Client project'     |         
 |cs	     |`'Czech'`     |'Project with Czech language - data, static text in Czech language'     |         
 |en	     |`'English'`     |'Project with English language - data, static text in English language'     |         
+<p>
 
 
 <br />
