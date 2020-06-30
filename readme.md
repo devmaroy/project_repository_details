@@ -10,7 +10,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 
 ## Shortcuts
 
-<p align="left">
+
 |Shortcut        |Meaning               |Description                                                         |
 |----------------|-------------------------------|---------------------------------------------------|
 |ga	     |`'Gatsby JS'`         |'Project build with Gatsby'                                         |
@@ -19,7 +19,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 |cl	     |`'Client'`     |'Client project'     |         
 |cs	     |`'Czech'`     |'Project with Czech language - data, static text in Czech language'     |         
 |en	     |`'English'`     |'Project with English language - data, static text in English language'     |         
-<p>
+
 
 
 <br />
