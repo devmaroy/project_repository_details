@@ -10,7 +10,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 
 ## Shortcuts
 
-|ST        |Meaning               |Description                                                         |
+|Shortcut        |Meaning               |Description                                                         |
 |----------------|-------------------------------|---------------------------------------------------|
 |ga	     |`'Gatsby JS'`         |'Project build with Gatsby'                                         |
 |siapi	 |`'Strapi.io API'`     |'Created with Strapi.io backend API - we fetch data from there'     |         
