@@ -25,4 +25,4 @@ The reason is that there is no need to create **LONG** repository names like **"
 
 **Example:** maresanka_cl_ga_siapi_en
 
-**Meaning:** project for **client** build with **Gatsby JS** and based on the **Strapi API** with data in **English language.**
+**Meaning:** project for a **client** Maresanka, build with the **Gatsby JS** and based on the **Strapi API** with data in the **English language.**
