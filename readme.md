@@ -1,6 +1,6 @@
-# Client Project Repository Details
+# Project Repository Details
 
-In this file you can find description, shortcuts and other info for client repositories. 
+In this file you can find description, shortcuts and other info for project repositories. 
 The reason is that there is no need to create **LONG** repository names like **"project_client_gatsby_strapi_backend".**
 
 
@@ -15,6 +15,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 |----------------|-------------------------------|--------------------------------------------------------------|
 |ga	     |`'Gatsby JS'`         |'Project build with Gatsby'                                                    |
 |ljsond	 |`'Local JSON Data'`   |'Created with local JSON files filled with content data - transformer-json'    |         
+|md	     |`'Markdown'`          |'Created with Markdown'                                                        |         
 |siapi	 |`'Strapi.io API'`     |'Created with Strapi.io backend API - we fetch data from there'                |         
 |pe	     |`'Personal'`          |'Personal project'                                                             |         
 |cl	     |`'Client'`            |'Client project'                                                               |         
