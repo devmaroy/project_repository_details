@@ -21,6 +21,12 @@ The reason is that there is no need to create **LONG** repository names like **"
 |cl	     |`'Client'`            |'Client project'                                                               |         
 |cs	     |`'Czech'`             |'Project with Czech language - data, static text in Czech language'            |         
 |en	     |`'English'`           |'Project with English language - data, static text in English language'        |         
+|cu	     |`'Current'`           |'The latest version of the project - this version is also hosted for a client'        |         
+|ol	     |`'Old'`           |'The old version of the project. I like to keep older versions.'        |         
+|pv	     |`'Previous version'`  |'Project that was created with certain idea - json data for example        |         
+|	     |  |but then was changed to Strapi -> new repository was created.        |         
+|	     |  |This is just for reference and because I want to keep old version         |         
+|	     |  |before moving to API, or something like that with new repos.         |         
 
 
 
