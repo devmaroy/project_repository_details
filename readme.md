@@ -29,6 +29,6 @@ The reason is that there is no need to create **LONG** repository names like **"
 
 <br />
 
-**Example:** maresanka_cl_ga_siapi_en
+**Example:** devmaroy_cl_ga_siapi_en
 
-**Meaning:** project for a **client** Maresanka, build with the **Gatsby JS** and based on the **Strapi API** with data in the **English language.**
+**Meaning:** project for a **client** Devmaroy, build with the **Gatsby JS** and based on the **Strapi API** with data in the **English language.**
