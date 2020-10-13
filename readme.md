@@ -11,6 +11,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 | Shortcut | Meaning              | Description                                                                    |
 | -------- | -------------------- | ------------------------------------------------------------------------------ |
 | ga       | `'Gatsby JS'`        | 'Project build with Gatsby'                                                    |
+| re       | `'React JS'`        | 'Project build with React JS'                                                   |
 | st       | `'Static'`           | 'Project build with HTML and CSS only'                                         |
 | hc       | `'Hard coded Data'`  | 'Data is inside HTML elements hard coded. No API, no nothing.'                 |
 | ljsond   | `'Local JSON Data'`  | 'Created with local JSON files filled with content data - transformer-json'    |
