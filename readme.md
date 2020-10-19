@@ -19,6 +19,7 @@ The reason is that there is no need to create **LONG** repository names like **"
 | ljsond   | `'Local JSON Data'`   | 'Created with local JSON files filled with content data - transformer-json'    |
 | md       | `'Markdown'`          | 'Created with Markdown'                                                        |
 | siapi    | `'Strapi.io API'`     | 'Created with Strapi.io backend API - we fetch data from there'                |
+| fidb     | `'Firebase Database'` | 'Created with Firebase database - we store data here'                          |
 | tlcss    | `'Tailwind CSS'`      | 'Created with Tailwind CSS library.'                                           |
 | pe       | `'Personal'`          | 'Personal project'                                                             |
 | cl       | `'Client'`            | 'Client project'                                                               |
